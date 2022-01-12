@@ -45,12 +45,6 @@
     </a>
   </td>
   <td align="center">
-    <a href="#数学类">
-      <img src="https://www.0voice.com/uiwebsite/icons/%E6%95%B0%E5%AD%A6%E7%B1%BB.png" width="120px" height="100px">
-      <p>数学类</p>
-    </a>
-  </td>
-  <td align="center">
     <a href="#经济类">
       <img src="https://www.0voice.com/uiwebsite/icons/%E7%BB%8F%E6%B5%8E%E7%B1%BB.png" width="120px" height="100px">
       <p>经济类</p>
