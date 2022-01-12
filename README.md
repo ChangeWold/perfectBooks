@@ -1,4 +1,4 @@
-## change。
+## change
 
 <br/>
 <br/>
